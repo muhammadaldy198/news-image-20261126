@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261126/muhammadaldy198/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 [![reward](https://make.fun/badge/news-image-20261126/muhammadaldy198/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
-THE WORLD — a one-page newspaper front page for Thursday 26 November 2026: the EU summit, the Bank of Korea expected 3.25% hike, Thanksgiving and the 100th Macy’s parade — 22 dated stories, a world map and a date check.
+THE WORLD — a one-page newspaper front page for Thursday 26 November 2026: 35 dated stories across 9 regions — EU leaders clash over the €45bn Ukraine loan, Korea hikes to 3.25%, Macy's postpones its 100th parade to Saturday — plus the Davis Cup quarter-finals, Houthi strikes on Saudi oil, Kim's nuclear order, a world map and a date check.
 
 ## Run it
 
