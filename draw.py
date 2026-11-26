@@ -133,7 +133,7 @@ def main():
     d.rectangle([x1 - 128, y + 8, x1, y + 68], outline=RULE, width=1)
     text(d, x1 - 122, y + 12, "22 DATED STORIES", F_SANSB(11))
     text(d, x1 - 122, y + 26, "6 REGIONS", F_SANSB(13))
-    text(d, x1 - 122, y + 44, "ALL FROM THU 26 NOV", F_SANS(10), GRAY)
+    text(d, x1 - 122, y + 44, "ALL DATED", F_SANS(10), GRAY)
     # title
     text_c(d, W / 2, y + 0, "THE WORLD", F_BLACK(54))
     text_c(d, W / 2, y + 58, "Thursday, 26 November 2026", F_SBOLD(13))
@@ -261,7 +261,7 @@ def art_bok(d, x, y, w, h):
     for i in range(3):
         d.ellipse([x + 258 + i * 10, y + 66 - i * 4, x + 264 + i * 10, y + 72 - i * 4],
                   fill=(200, 205, 210))
-    banner(d, x, y + h - 22, w, "3.25% EXPECTED")
+    banner(d, x, y + h - 22, w, "3.25% CONFIRMED")
 
 def art_thanksgiving(d, x, y, w, h):
     for i in range(5):
